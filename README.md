@@ -20,6 +20,11 @@
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://github.com/JP-Ekuzen)
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://github.com/JP-Ekuzen)
 ***
+
+<!-- ## 🗂️ Highlight Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JP-Ekuzen&repo=discordRich)](https://github.com/JP-Ekuzen) -->
+
 ## 📝 Information
 
 ![Metrics](https://github.com/JP-Ekuzen/jp-ekuzen/blob/master/github-metrics.svg)
