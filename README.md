@@ -31,4 +31,5 @@
 
 ## 📝 Information
 
-![Metrics](https://github.com/JP-Ekuzen/jp-ekuzen/blob/master/github-metrics.svg)
+![Metrics](github-metrics.svg)
+![Featured](github-featured-rep.png)
