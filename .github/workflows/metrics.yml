@@ -42,10 +42,6 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_lines: yes
-          plugin_activity: yes
-          plugin_activity_limit: 3
-          plugin_activity_days: 7
-          plugin_activity_filter: ref/create, ref/delete, release, push, issue, pr     
+          plugin_lines: yes   
           plugin_projects: yes
           plugin_projects_repositories: JP-Ekuzen/discordBot-projectVegas, JP-Ekuzen/licenceKeyApi
