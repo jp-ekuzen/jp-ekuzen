@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "* * * 50 *"}]
+  schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -27,7 +27,7 @@ jobs:
           # Options
           user: JP-Ekuzen
           template: classic
-          base: header
+          base: header, repositories
           config_timezone: Europe/Warsaw
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
