@@ -31,4 +31,4 @@
 ## 📝 Information
 
 [![Metrics](github-metrics.svg)](https://github.com/JP-Ekuzen)
-[![Featured](github-featured-rep.png)](https://github.com/JP-Ekuzen)
+[![Featured](github-featured-rep.svg)](https://github.com/JP-Ekuzen)
