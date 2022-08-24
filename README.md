@@ -1,5 +1,3 @@
-![Banner](banner.png)
-
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,django" />
     <img src="https://skillicons.dev/icons?i=javascript,nodejs" />
