@@ -9,6 +9,11 @@
 
 ### <p align="center">Projects Portfolio</p>
 <p align="center">
-    
+    <img src="/covid.png" width=317 height=278 />
+    <img src="/covid.png" width=317 height=278 />
+    <img src="/covid.png" width=317 height=278 />
+    <img src="/covid.png" width=317 height=278 />
+    <img src="/covid.png" width=317 height=278 />
+    <img src="/covid.png" width=317 height=278 />
 </p>
-<img src="/covid.svg" width=317 height=278 />
+
