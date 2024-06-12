@@ -11,3 +11,4 @@
 <p align="center">
     
 </p>
+<img src="/covid.svg" width=317 height=278 />
